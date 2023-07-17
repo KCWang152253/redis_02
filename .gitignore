@@ -1,3 +1,5 @@
 
-
+/redis_20210511/.idea/*.xml
+/redis_20210511/.idea/libraries/*.xml
+/redis_20210511/.idea/inspectionProfiles/*.xml
 /.idea/*.xml
